@@ -1,4 +1,7 @@
-## Códigos dos desafios resolvidos no YouTube
+## 
+<p>
+Bem-vindo(a) ao Repositório de Desafios de Código! Aqui você encontrará uma coleção de desafios de programação resolvidos em vídeo, disponíveis para aprendizado e inspiração. Este repositório é o complemento perfeito para os vídeos que são publicados em nosso canal no YouTube.
+</p>
 
 ---
 
@@ -60,7 +63,7 @@
 
 ---
 
-## <img width="25" height="25" src="https://github.com/eduardoamorim-dev/code-challenges/assets/86995782/fb573834-c178-4e4e-b7c5-e89e0702b58c">  CONTATOS  <br>
+## CONTATOS  <br>
 
 <div align="left">
   <!-- Linkedin -->
@@ -72,3 +75,7 @@
 </div> 
 
 ---
+
+
+
+Obrigado por visitar nosso Repositório de Desafios de Código! Esperamos que você encontre inspiração e aprendizado aqui. 
