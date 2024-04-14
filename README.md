@@ -1,9 +1,11 @@
 ## 
 <p>
-Bem-vindo(a) ao Repositório de Desafios de Código! Aqui você encontrará uma coleção de desafios de programação resolvidos em vídeo, disponíveis para aprendizado e inspiração. Este repositório é o complemento perfeito para os vídeos que são publicados em nosso canal no YouTube.
-</p>
+Bem-vindo(a) ao Repositório de Desafios de Código! Aqui você encontrará uma coleção de desafios de programação resolvidos em vídeo, disponíveis para aprendizado e inspiração. Este repositório é um complemento para os vídeos que são publicados em nosso 
+<a href="https://www.youtube.com/channel/UCcue5aa6HAaiqoviCtsrySQ">Canal no YouTube</a></p>
 
 ---
+
+
 
 <div align="left">
     
