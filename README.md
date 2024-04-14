@@ -29,7 +29,7 @@
             <tr>
                 <td align="left">1000 - Hello World!</td>
                  <td align="center">  
-                    <a href="https://github.com/eduardoamorim-dev/code-challenges/blob/main/beecrowd/1000%20-%20Hello%20World!.cpp">
+                    <a href="https://github.com/eduardoamorim-dev/code-challenges/blob/main/beecrowd/1000-HelloWorld.cpp">
                         <img src="https://github.com/eduardoamorim-dev/code-challenges/assets/86995782/7b2ab23c-e012-4d3e-bf42-5d717b882fdd" width="38px""></img>
                     </a>
                  </td>
