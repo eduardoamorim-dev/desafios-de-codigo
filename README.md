@@ -45,7 +45,6 @@ Bem-vindo(a) ao Repositório de Desafios de Código! Aqui você encontrará uma 
                  </td>
                 </tr>
                 <tr>
-<!--
             <tr>
                <td align="left">1001 - Extremamente Básico</td>
                   <td align="center">  
@@ -59,7 +58,6 @@ Bem-vindo(a) ao Repositório de Desafios de Código! Aqui você encontrará uma 
                     </a>
                  </td>
               </tr>
--->
              </table>
          </div>
     </details>  
