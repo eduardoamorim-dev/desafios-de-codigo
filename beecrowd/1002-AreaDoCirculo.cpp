@@ -4,15 +4,16 @@
 using namespace std;
 
 int main() {
+  
+  double n = 3.14159, raio, area;
 
-    double raio, area;
-    cin >> raio;
+  cin >> raio;
 
-    area = 3.14159 * (raio * raio);
-    
-    cout << fixed << setprecision(4) << "A=" << area  << endl;
+  area = n * (raio * raio);
 
-    return 0;
+  cout << "A=" << fixed << setprecision(4) << area << endl;
+  
+  return 0;
 }
 
 /* ou
