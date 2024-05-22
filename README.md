@@ -79,12 +79,9 @@ Bem-vindo(a) ao Repositório de Desafios de Código! Aqui você encontrará uma 
                     </a>
                  </td>
                  <td align="center"> 
-<!-- 
-                <a href="https://www.youtube.com/watch?v=2jjG7WtUaEA">
+                <a href="https://www.youtube.com/watch?v=tKEAf98g7bA">
                         <img src="https://github.com/eduardoamorim-dev/code-challenges/assets/86995782/7b2ab23c-e012-4d3e-bf42-5d717b882fdd" width="38px""></img>
                     </a>
--->
-                     <p>Em breve</p>  
                  </td>
               </tr>
               <tr>
