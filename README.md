@@ -97,6 +97,25 @@ Bem-vindo(a) ao Repositório de Desafios de Código! Aqui você encontrará uma 
                     </a>
                  </td>
               </tr>
+                <tr>
+               <td align="left">1005 - Média 1</td>
+                  <td align="center">
+<!--
+                    <a href="https://github.com/eduardoamorim-dev/desafios-de-codigo/blob/main/beecrowd/1004-ProdutoSimples.cpp">
+                        <img src="https://github.com/eduardoamorim-dev/code-challenges/assets/86995782/7b2ab23c-e012-4d3e-bf42-5d717b882fdd" width="38px""></img>
+                    </a>
+-->
+                    <p>Em breve</p>
+                 </td>
+                 <td align="center"> 
+<!--
+                <a href="https://www.youtube.com/watch?v=5bu7915oMw0">
+                        <img src="https://github.com/eduardoamorim-dev/code-challenges/assets/86995782/7b2ab23c-e012-4d3e-bf42-5d717b882fdd" width="38px""></img>
+                 </a>
+-->
+                    <p>Em breve</p>
+                 </td>
+              </tr>
              </table>
          </div>
     </details>  
