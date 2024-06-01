@@ -3,8 +3,9 @@
 
 using namespace std;
 
-int main() {
-  
+int main()
+{
+
   double n = 3.14159, raio, area;
 
   cin >> raio;
@@ -12,7 +13,7 @@ int main() {
   area = n * (raio * raio);
 
   cout << "A=" << fixed << setprecision(4) << area << endl;
-  
+
   return 0;
 }
 
@@ -29,7 +30,7 @@ int main() {
     cin >> raio;
 
     area = 3.14159 * pow(raio, 2); // Usando pow() para calcular o quadrado do raio
-    
+
     cout << fixed << setprecision(4) << "A=" << area  << endl;
 
     return 0;
